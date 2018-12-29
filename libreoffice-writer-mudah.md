@@ -1,4 +1,4 @@
-## Tutoria Libreoffice Writer (Mudah)
+## Tutorial Libreoffice Writer (Mudah)
 
 1. Pemformatan text(Tebal, Miring, Garis Bawah, dll)
 2. Pemformatan paragraf(Rata kanan, rata kiri, rata kanan kiri, dll)
