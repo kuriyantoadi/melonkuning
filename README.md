@@ -1,8 +1,5 @@
-## Selamat datang di blog melonkuning Github
+# Blog Melonkuning Github
 ........................................................................................................................................
-<br>
-<br>
-
 ### Libreoffice Writer (Mudah)
 Libreoffice Writer adalah salah satu program pengolah kata yang `sangat populer di dunia Open Source`. Mungkin tidak mudah untuk belajar libreoffice writer secara **otodidak** karena perlu waktu yang cukup banyak untuk belajar sesuatu yang baru.
 
