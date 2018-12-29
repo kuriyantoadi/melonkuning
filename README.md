@@ -6,9 +6,7 @@ Libreoffice Writer adalah salah satu program pengolah kata yang [sangat populer 
 
 [Silabus Libreofice Writer (Mudah)](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah)
 
-<br>
-<br>
-<br>
+
 
 ### Support or Contact
 
