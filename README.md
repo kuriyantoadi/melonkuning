@@ -1,11 +1,9 @@
 ## Selamat datang di blog melonkuning Github
 ........................................................................................................................................
 ### Libreoffice Writer (Mudah)
-Tutorial ini membahas cara mengunakan Libreoffice Writer secara dasar. Ini mungkin juga bisa sebagai pelajaran awal untuk belajar Libreoffice Writer sebelum ke tahap berikut nya.
+Libreoffice Writer adalah salah satu program pengolah kata yang `sangat populer di dunia Open Source`. Mungkin tidak mudah untuk belajar libreoffice writer secara **otodidak** karena perlu waktu yang cukup banyak untuk belajar sesuatu yang baru.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuriyantoadi/melonkuning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Silabus Libreofice Writer (Mudah)](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah)
 
 ### Support or Contact
 
