@@ -9,6 +9,7 @@ Libreoffice Writer adalah salah satu program pengolah kata yang [sangat populer 
 <br>
 <br>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Kontak dan Dukungan
+Jika ada masalah dengan web ini anda dapat sampikan di telegram [kuriyanto](https://t.me/kuriyanto), email kuryantoadi8@gmail.com , [Facebook Saya](https://web.facebook.com/churyanto),[Twitter Saya](https://twitter.com/kuriyantoadi) dan [Instgram Saya](https://www.instagram.com/kuriyantoadi/).
