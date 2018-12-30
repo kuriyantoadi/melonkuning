@@ -19,4 +19,4 @@
 
 Mendapatkan tutorial?
 - [Download dari Internet](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah-unduh)
-- [Dapatkan DVD](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-DVD)
+- [Dapatkan DVD](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-dvd)
