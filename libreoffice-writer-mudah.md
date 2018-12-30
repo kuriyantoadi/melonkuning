@@ -9,9 +9,14 @@
 4. Membuat bullet dan numbering.
 5. Menyimpan file yang sudah di buat.
 6. Menyimpan file dalam bentuk PDF.
-7. Cetak dokumen
-8. Memberikan password
-9. Memasukan gambar 
-10. Membuat tabel
-11. Pemformatan tabel
+7. Cetak dokumen.
+8. Memberikan password.
+9. Memasukan gambar.
+10. Membuat tabel.
+11. Pemformatan tabel.
 12. Membuat diagram.
+13. Membuat halaman menjadi lanscape dan portaint
+
+Mendapatkan tutorial?
+- [Download dari Internet](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah-unduh)
+- [Dapatkan DVD](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-DVD)
