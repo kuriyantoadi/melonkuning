@@ -7,4 +7,4 @@ DVD Tutorial Libreoffice Writer akan dikirimkan ke alamat anda. DVD akan dikirim
 Anda dapat melakukan pembayaran dengan transfer dan mengirimkan bukti pembayaran nya keadmin.
 
 **Info nomor rekening**
-<br>Anda bisa hubungi WA 0852939494922 (kuriyanto)
+<br>Anda bisa hubungi **WA 0852939494922 (kuriyanto)**
