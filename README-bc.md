@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![logo_libreofficewriter.png](melonkuning/materi/)
 
-[Silabus Libreofice Writer (Mudah)](https://kuriyantoadi.github.io/materi/file)
+[Silabus Libreofice Writer (Mudah)](https://kuriyantoadi.github.io/melonkuning/materi/file)
