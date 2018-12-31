@@ -7,7 +7,7 @@
 2. Pemformatan paragraf(Rata kanan, rata kiri, rata kanan kiri, dll).
 3. Edit ukuran font, jenis font, dan warna font.
 4. Membuat bullet dan numbering.
-5. Menyimpan file yang sudah di buat.
+5. Menyimpan file dalam bentuk odt, pdf, .
 6. Menyimpan file dalam bentuk PDF.
 7. Cetak dokumen.
 8. Memberikan password.
