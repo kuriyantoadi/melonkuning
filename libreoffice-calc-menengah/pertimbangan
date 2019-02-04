@@ -1,8 +1,9 @@
 IF
 SUM
-Count
 CountA
 CountIF
+index
+
 SumIF
 Match
 VLookUp
