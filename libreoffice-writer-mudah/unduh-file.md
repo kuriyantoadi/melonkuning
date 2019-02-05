@@ -14,8 +14,8 @@
 9. Mencetak dokumen,membuat layout lanscape dan portaint.
 //10. Membuat bagan.
 
-Link download video [**Libreoffice Writer Mudah**]() akan dikirimkan ke kontak anda. Link Download video akan dikirim setelah anda melakukan pembayaran **Rp 60.000**.
-Anda dapat melakukan pembayaran dengan transfer dan mengirimkan bukti pembayaran nya keadmin.
+Link download video [**Libreoffice Writer Mudah.**](http://www.mediafire.com/folder/xtqux23nuk63v/libreoffice_mudah) 
+<br>sudah dibuka silahkan anda download. Jika ada kesulitan download silahkan hubungi admin.
 
-**Info nomor rekening**
-<br>Anda bisa hubungi **WA 0852939494922 (kuriyanto)**
+<br>Anda bisa hubungi **Whatsapp 0852939494922 (kuriyanto)**
+<br>Anda bisa hubungi **Telgram @kuriyanto (kuriyanto)**
