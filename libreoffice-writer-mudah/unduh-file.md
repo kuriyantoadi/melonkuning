@@ -14,8 +14,10 @@
 9. Mencetak dokumen,membuat layout lanscape dan portaint.
 //10. Membuat bagan.
 
-Link download video [**Libreoffice Writer Mudah.**](http://www.mediafire.com/folder/xtqux23nuk63v/libreoffice_mudah) 
+[**Link download video
+Libreoffice Writer Mudah.**](http://www.mediafire.com/folder/xtqux23nuk63v/libreoffice_mudah)
 <br>sudah dibuka silahkan anda download. Jika ada kesulitan download silahkan hubungi admin.
 
-<br>Anda bisa hubungi **Whatsapp 0852939494922 (kuriyanto)**
-<br>Anda bisa hubungi **Telgram @kuriyanto (kuriyanto)**
+<br>Anda bisa hubungi
+<br>**Whatsapp 0852939494922 (kuriyanto)**
+<br>**Telgram @kuriyanto (kuriyanto)**
