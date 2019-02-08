@@ -12,8 +12,8 @@
 7. Membuat tabel.
 8. Membuat diagram.
 9. Mencetak dokumen,membuat layout lanscape dan portaint.
-10. Membuat bagan.
+//10. Membuat bagan.
 
 Mendapatkan tutorial?
 - [Download dari Internet](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah/unduh)
-- [Dapatkan DVD](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah/dvd)
+//- [Dapatkan DVD](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah/dvd)
