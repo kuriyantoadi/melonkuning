@@ -3,7 +3,7 @@
 
 ## [Tutorial Libreoffice Writer (Mudah)](https://kuriyantoadi.github.io/melonkuning/libreoffice-writer-mudah/silabus)
 
-1. [Pemformatan text(Tebal, Miring, Garis Bawah, dll)](http://www.mediafire.com/file/bxv8k8lg1bh44wv/libreoffice-writer-perkenalan-1.zip/file)
+1. [Pemformatan text(Tebal, Miring, Garis Bawah, dll)](http://www.mediafire.com/folder/m158ojf6p6cri/libreoffice-writer-perkenalan)
 <br>
 2. [Pemformatan paragraf(Rata kanan, rata kiri, rata kanan kiri, dll)](http://www.mediafire.com/file/d3hg5y2fk9007wd/libreoffice-writer-format-paragraf.zip/file)
 3. [Edit ukuran font, jenis font, dan warna font](http://www.mediafire.com/file/neu8d46154c3934/libreoffice-writer-format-font.zip/file)
