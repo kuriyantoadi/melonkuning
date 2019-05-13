@@ -5,16 +5,16 @@
 
 1. Pemformatan text(Tebal, Miring, Garis Bawah, ukuran font, jenis font, dan warna font).
 2. Pemformatan kolom text(Rata kanan, rata kiri, rata kanan kiri, dll).
-3. Edit .
-4. Membuat Border.
-5. Menyimpan file yang sudah di buat.
-6. Menyimpan file dalam bentuk PDF.
-7. Cetak dokumen (tanpa ada nomor halaman).
-8. Memberikan password.
-9. Memasukan gambar.
-10. Mengabungkan kolom.
+3. Mengabungkan kolom dan Membuat Border.
+4. Menyimpan file ods, pdf, memberikan password, cetak dokumen tanpa nomor dan sheet
+5. Memasukan gambar dan Membuat diagram.
+6. 
+7. 
+8. 
+9. 
+10. 
 11. Mengurutkan data.
-12. Membuat diagram.
+12. 
 
 Mendapatkan tutorial?
 - [Download dari Internet](https://kuriyantoadi.github.io/melonkuning/libreoffice-calc-mudah/unduh)
